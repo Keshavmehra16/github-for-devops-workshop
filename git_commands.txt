@@ -1,0 +1,7 @@
+git intit - command to initialise emoty git version control system folder
+git status -Check git for any untracked files.
+git add - Add files to staged 
+git commit -m "message" - Making files tracked
+git restore 'filename.txt- Restore deleted file
+git config -list-List configurations
+git remote add origin "github_link"=li
