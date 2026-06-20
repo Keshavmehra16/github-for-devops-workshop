@@ -5,4 +5,5 @@ git commit -m "message" - Making files tracked
 git restore 'filename.txt- Restore deleted file
 git config -list-List configurations
 git remote add origin "github_link"-link to add for github
-git remote set-url origin "modified origin link"-So that git can have PAT to access github repositary properly.
+git remote set-url origin "modified origin link"-So that git can have PAT(personal access token) to access github repositary properly.
+git clone "link_from_the_repositary_copy_section"
