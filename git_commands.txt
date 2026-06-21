@@ -6,4 +6,7 @@ git restore 'filename.txt- Restore deleted file
 git config -list-List configurations
 git remote add origin "github_link"-link to add for github
 git remote set-url origin "modified origin link"-So that git can have PAT(personal access token) to access github repositary properly.
-git clone "link_from_the_repositary_copy_section"
+git clone "link_from_the_repositary_copy_section"- copy the gitub repoisitary from remote to local.
+git fetch - used to fetch new branch we create in github.
+git log - used to check logs.
+git checkout -b brach_name- Used to add new branch
